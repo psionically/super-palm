@@ -160,7 +160,7 @@ int main()
 }
 
 /*--------------------------------------------------------------------------*/
-/* This function will execute the programs from previous assignment. */
+/* This function will execute the rr, fcfs, hpf, and srt programs. */
 void ex(char file1[], char file2[], char file3[], char file4[])
 {
   system(file1);
